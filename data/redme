@@ -1,12 +1,11 @@
-
 ## Dataset access
 
-The raw datasets were too large for direct GitHub upload, so they are not committed to this repo.
+The raw datasets are not included in this repository because of GitHub file size limits.
 
 Download them from the original assignment links and place them inside the `data/` folder:
 
--[ Bitcoin Market Sentiment: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing]
-- [Historical Trader Data: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing]
+- [Bitcoin Market Sentiment Dataset](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+- [Historical Trader Data Dataset](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
 
 Expected files:
 - `data/sentiment.csv`
